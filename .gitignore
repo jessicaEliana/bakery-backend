@@ -1,1 +1,5 @@
 env-bakery
+*/__pycache__
+*/*/__pycache__
+.env
+static/img
